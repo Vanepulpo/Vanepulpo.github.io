@@ -22,16 +22,16 @@ h1, h2 {
 .imagen1 {
 	width:230px;
 	height:180px;
+	
 }
 
-.p2{
+.p1{
 
-	border: 5px solid green;
+	border: 5px dashed navy;
 	padding-top: 20px;
 	margin-top:0;
-	background-color: yellow;
+	background-color: rgba(100, 12, 74, 0.42);
 	
- 
 }
 
 #form {
@@ -45,3 +45,7 @@ h2 {
 	
 }
 
+.p2 {
+	font-size: .8rem;
+	
+}
